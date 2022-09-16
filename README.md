@@ -1,2 +1,1 @@
-"# IBM-Data-Science-Capstone" 
-echo "# IBM-Data-Science-Capstone-" 
+IBM Data Science Capstone Project
